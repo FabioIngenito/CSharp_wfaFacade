@@ -1,0 +1,15 @@
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsFacade.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsFacade.pdb
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsSubSystemA.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsSubSystemB.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsSubSystemC.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsSubSystemD.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsSubSystemE.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsSubSystemA.pdb
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsSubSystemB.pdb
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsSubSystemC.pdb
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsSubSystemD.pdb
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\bin\Debug\clsSubSystemE.pdb
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\obj\Debug\clsFacade.csprojResolveAssemblyReference.cache
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\obj\Debug\clsFacade.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsFacade\obj\Debug\clsFacade.pdb

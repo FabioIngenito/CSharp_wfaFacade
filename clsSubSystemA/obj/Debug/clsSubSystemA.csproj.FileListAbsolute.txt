@@ -1,0 +1,5 @@
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsSubSystemA\bin\Debug\clsSubSystemA.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsSubSystemA\bin\Debug\clsSubSystemA.pdb
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsSubSystemA\obj\Debug\clsSubSystemA.csprojResolveAssemblyReference.cache
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsSubSystemA\obj\Debug\clsSubSystemA.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsSubSystemA\obj\Debug\clsSubSystemA.pdb

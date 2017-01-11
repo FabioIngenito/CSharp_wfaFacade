@@ -1,0 +1,4 @@
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsSubSystemE\bin\Debug\clsSubSystemE.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsSubSystemE\bin\Debug\clsSubSystemE.pdb
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsSubSystemE\obj\Debug\clsSubSystemE.dll
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\CSharp_wfaFacade\clsSubSystemE\obj\Debug\clsSubSystemE.pdb
